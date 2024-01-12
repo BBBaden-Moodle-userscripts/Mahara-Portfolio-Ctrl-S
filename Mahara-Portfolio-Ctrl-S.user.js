@@ -7,8 +7,8 @@
 // @match        https://portfolio.bbbaden.ch/view/blocks.php*
 // @icon         https://github.com/BBBaden-Moodle-userscripts/Mahara-Portfolio-Ctrl-S/blob/main/icon/saveIcon.png?raw=true
 //
-// @downloadURL https://github.com/BBBaden-Moodle-userscripts/potential-Points/raw/main/potential_points.user.js
-// @updateURL   https://github.com/BBBaden-Moodle-userscripts/potential-Points/raw/main/potential_points.user.js
+// @downloadURL https://github.com/BBBaden-Moodle-userscripts/Mahara-Portfolio-Ctrl-S/raw/main/Mahara-Portfolio-Ctrl-S.user.js
+// @updateURL   https://github.com/BBBaden-Moodle-userscripts/Mahara-Portfolio-Ctrl-S/raw/main/Mahara-Portfolio-Ctrl-S.user.js
 //
 // @grant        none
 // ==/UserScript==
